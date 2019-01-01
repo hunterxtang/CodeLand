@@ -1,0 +1,25 @@
+0 - jump to the start of the line
+$ - jump to the end of the line
+w - jump forwards to the start of a word
+b - jump backwards to the start of a word
+dd - delete/cut a line
+2dd - delete/cut two lines
+3dd - delete/cut three lines
+p - paste the clipboard after cursor
+P (shift + p) - paste before cursor
+r - replace
+x - delete a letter
+2x - delete two letters
+pwd: where am I?
+ls: list the contents of a specified directory
+cd: jump to a specified directory
+mkdir: create a new directory given a specified path
+cp: copy files and directories
+mv: move files and directories
+chmod: modify the perssion of access to files and directories
+rm: remove files and directories
+exit: quit the current session
+help: command that returns with a linux command cheatsheet
+man: stands for "Manual", it returns detailed usage of a particular command, e.g. man cp
+
+
