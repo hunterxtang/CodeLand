@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace::std;
+int main()
+{
+	int n, k;
+	cin>>n>>k;
+	string nums = "124816326412825651210242048409681921638432768655361310722621445242881048576209715241943048388608167772166";
+	cout<<nums[k-1]<<endl;
+}
